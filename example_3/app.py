@@ -1,3 +1,4 @@
+
 class MonClasse:
 
     def __init__(self, name, age):
